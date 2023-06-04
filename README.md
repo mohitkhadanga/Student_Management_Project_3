@@ -3,13 +3,13 @@
 This is a Java-based Student Management System that allows administrators to perform various operations related to student records. The program provides functionality to add students, delete students, update student information, and view all students' details.
 
 ## Table of Contents
-- Features[Features]
-- Prerequisites
-- Technologies Used
-- Getting Started
-- Usage
-- Author
-- Acknowledgments
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 The Student Management System includes the following features:
@@ -31,6 +31,8 @@ The following technologies and concepts were used in developing this Student Man
 
 - Core Java
 - Object-Oriented Programming (OOPs) principles
+- JDBC (Java Database Connectivity) for database operations
+- Collection framework for storing and manipulating student data
 - MySQL database for data storage (can be customized for other databases)
 
 ## Getting Started
